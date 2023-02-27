@@ -1,6 +1,6 @@
 module.exports = {
   theme: '',
-  title: 'cico-element-ui',
+  title: 'nicky132-element-ui',
   description: 'Element的组件库文档教程示例代码',
   base: '/',
   port: '8080',
