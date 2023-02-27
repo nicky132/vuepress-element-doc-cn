@@ -1,5 +1,7 @@
-import ElementUI from 'element-ui';
-import 'element-ui/lib/theme-chalk/index.css';
+import ElementUI from '@nicky132/element';
+import '@nicky132/element/lib/theme-chalk/index.css';
+
+console.log('ElementUI',ElementUI);
 
 export default async ({
   Vue
